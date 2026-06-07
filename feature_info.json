@@ -1,0 +1,26 @@
+{
+  "numerical_cols": [
+    "Price",
+    "RAM_GB",
+    "SSD_GB",
+    "Inches",
+    "Rating"
+  ],
+  "categorical_cols": [
+    "CPU_Detail",
+    "GPU_Detail",
+    "OS_Detail",
+    "Screen_Resolution_Type"
+  ],
+  "feature_cols": [
+    "Price",
+    "RAM_GB",
+    "SSD_GB",
+    "Inches",
+    "Rating",
+    "CPU_Detail_Encoded",
+    "GPU_Detail_Encoded",
+    "OS_Detail_Encoded",
+    "Screen_Resolution_Type_Encoded"
+  ]
+}
